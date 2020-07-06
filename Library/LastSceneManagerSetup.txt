@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/PokemonJogo.unity
+- path: Assets/Scenes/PokemonCreateLogin.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
